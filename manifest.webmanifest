@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Controle de Banca Mobile v3",
+  "short_name": "Minha Banca",
+  "description": "Controle pessoal de banca v3.5.24 com todas as configurações, gráficos e efeitos 3D, adaptado para celular.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#0c1118",
+  "theme_color": "#0c1118",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

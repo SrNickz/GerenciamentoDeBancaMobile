@@ -1,0 +1,732 @@
+{
+  "set": {
+    "theme": "user:2bcpawh",
+    "cy": "BRL",
+    "dens": "normal",
+    "gm": "all",
+    "ord": "desc",
+    "anim": "on",
+    "fs": "m",
+    "maxL": 3,
+    "dx": 0,
+    "old": 1,
+    "lay": "side",
+    "sideSkin": "soft",
+    "navBar": "transparent",
+    "navButtons": "pill",
+    "navLabels": "full",
+    "navSize": 105,
+    "navAutoHide": 0,
+    "navPrefsV": 1,
+    "siteView": "dashboard",
+    "tr": "zoom",
+    "heat": "cum",
+    "infoOn": 1,
+    "perf": "smooth",
+    "fps": 0,
+    "fc": {
+      "dep": "#e64a19",
+      "wd": "#2e7d32"
+    },
+    "fx": {
+      "on": 1,
+      "type": "const",
+      "pw": 10,
+      "sp": 7,
+      "sz": 8,
+      "fxRev": 3,
+      "cols": [
+        "#2ecc71",
+        "#00acc1",
+        "#7e57c2"
+      ],
+      "glow": "#ccc62e",
+      "e": {
+        "ent": 1,
+        "float": 1,
+        "sweep": 1,
+        "shim": 1,
+        "pulse": 1,
+        "flash": 1,
+        "cnt": 1,
+        "rip": 1,
+        "hov": 1,
+        "spot": 0,
+        "conf": 1,
+        "shake": 1,
+        "tilt": 0
+      },
+      "cards": 1,
+      "ef": {
+        "spot": {
+          "on": 1,
+          "pw": 1,
+          "sz": 3,
+          "sp": 5
+        },
+        "ring": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "trail": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5,
+          "ty": "dot"
+        },
+        "magnet": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tilt": {
+          "on": 1,
+          "pw": 2,
+          "sz": 5,
+          "sp": 5,
+          "ty": "out"
+        },
+        "cclick": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "ent": {
+          "on": 1,
+          "pw": 1,
+          "sz": 2,
+          "sp": 1,
+          "ty": "fold",
+          "dir": "bottom"
+        },
+        "exit": {
+          "on": 1,
+          "pw": 1,
+          "sz": 1,
+          "sp": 4,
+          "ty": "fold",
+          "dir": "bottom",
+          "particles": "spark",
+          "pSpeed": 5,
+          "pSize": 5,
+          "pRange": 5
+        },
+        "calpop": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tiles": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "pulse": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "bar": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "shim": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "conf": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5,
+          "ty": "rect"
+        },
+        "shake": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "hov": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "float": {
+          "on": 1,
+          "pw": 6,
+          "sz": 5,
+          "sp": 5
+        },
+        "breath": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "bpulse": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "neon": {
+          "on": 1,
+          "pw": 3,
+          "sz": 5,
+          "sp": 5
+        },
+        "cnt": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "flash": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "rip": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "press": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorDot": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorHalo": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorOrbit": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorCross": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorPulse": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorComet": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorDust": {
+          "on": 1,
+          "pw": 10,
+          "sz": 2,
+          "sp": 10
+        },
+        "cursorSpark": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorGrid": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cursorBeam": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "clickRings": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "clickStars": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "clickCard": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "btnGlow": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "btnGrow": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "btnFloat": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "btnWiggle": {
+          "on": 1,
+          "pw": 1,
+          "sz": 1,
+          "sp": 8
+        },
+        "btnBorder": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "btnShadow": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cardZoom": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cardEdge": {
+          "on": 0,
+          "pw": 10,
+          "sz": 10,
+          "sp": 5
+        },
+        "cardSpot": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "cardHoverPulse": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "boxFloat": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "boxHoverGlow": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tabGlow": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tabUnderline": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tabNudge": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "tabSpin": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "numberHover": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "numberGlow": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "flowHover": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumLift": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumScale": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumBorder": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumHalo": {
+          "on": 1,
+          "pw": 3,
+          "sz": 2,
+          "sp": 5
+        },
+        "sumTint": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumValue": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "sumTilt": {
+          "on": 0,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5,
+          "ty": "in"
+        },
+        "sidei": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "h1": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "phic": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "drift": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        },
+        "chart": {
+          "on": 1,
+          "pw": 5,
+          "sz": 5,
+          "sp": 5
+        }
+      }
+    },
+    "c": {
+      "date": "#ffaf62",
+      "bank": "#617ad4",
+      "win": "#4cb2d1",
+      "loss": "#d95c66",
+      "ok": "#51c6a2"
+    },
+    "monthColors": [
+      "#ff6b6b",
+      "#ff8f3d",
+      "#ffb020",
+      "#ffd54a",
+      "#9ccc65",
+      "#2ecc71",
+      "#00c2a8",
+      "#00acc1",
+      "#42a5f5",
+      "#7e57c2",
+      "#ab47bc",
+      "#ec407a"
+    ],
+    "w": {
+      "m": "%",
+      "v": 5
+    },
+    "l": {
+      "m": "%",
+      "v": 15
+    },
+    "sb": 0,
+    "navWidthSide": 200,
+    "navWidthIcons": 76,
+    "navWidthHorizontal": 880
+  },
+  "games": [
+    {
+      "id": "bacbo",
+      "name": "Meu jogo",
+      "init": 0
+    }
+  ],
+  "goals": {},
+  "rng": {
+    "p": "all",
+    "from": "",
+    "to": ""
+  },
+  "fl": {
+    "sort": "date-desc",
+    "from": "",
+    "to": "",
+    "type": "all",
+    "intensity": 6
+  },
+  "periodGoals": [],
+  "layouts": [],
+  "layoutActive": "",
+  "diary": [],
+  "risk": {
+    "pct": 3,
+    "n": 5
+  },
+  "gl": {
+    "wk": 0,
+    "mo": 0,
+    "dd": 0
+  },
+  "ops": [],
+  "dep": [],
+  "wd": [],
+  "themes": [
+    {
+      "id": "2bcpawh",
+      "name": "Tema 1",
+      "base": {
+        "bg": "#0c1118",
+        "pn": "#1a222e",
+        "ln": "#334254",
+        "tx": "#eff5fb",
+        "mut": "#99aabb"
+      },
+      "scheme": "dark",
+      "colors": {
+        "date": "#ffaf62",
+        "bank": "#617ad4",
+        "win": "#4cb2d1",
+        "loss": "#d95c66",
+        "ok": "#51c6a2"
+      },
+      "fc": {
+        "dep": "#e64a19",
+        "wd": "#2e7d32"
+      },
+      "monthColors": [
+        "#ff6b6b",
+        "#ff8f3d",
+        "#ffb020",
+        "#ffd54a",
+        "#9ccc65",
+        "#2ecc71",
+        "#00c2a8",
+        "#00acc1",
+        "#42a5f5",
+        "#7e57c2",
+        "#ab47bc",
+        "#ec407a"
+      ],
+      "glow": "#ccc62e",
+      "cols": [
+        "#2ecc71",
+        "#00acc1",
+        "#7e57c2"
+      ]
+    }
+  ],
+  "wg": {
+    "ins": [
+      {
+        "k": "chart",
+        "c": {
+          "metric": "hour",
+          "type": "bar",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#2ecc71",
+          "col2": "#ef5350"
+        }
+      },
+      {
+        "k": "chart",
+        "c": {
+          "metric": "dur",
+          "type": "bar",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#2ecc71",
+          "col2": "#ef5350"
+        }
+      },
+      {
+        "k": "chart",
+        "c": {
+          "metric": "dow",
+          "type": "bar",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#2ecc71",
+          "col2": "#ef5350"
+        }
+      }
+    ],
+    "calc": [
+      {
+        "k": "risk",
+        "c": {
+          "b": "",
+          "r": 2,
+          "sl": 20,
+          "sw": 10
+        }
+      },
+      {
+        "k": "scen",
+        "c": {
+          "b": "",
+          "n": 30,
+          "al": "",
+          "ps": 5,
+          "po": 3,
+          "pm": 1.5,
+          "pp": -0.5,
+          "fx": 20,
+          "sps": true,
+          "spo": true,
+          "spm": true,
+          "spp": true,
+          "sfx": true
+        }
+      },
+      {
+        "k": "chart",
+        "c": {
+          "metric": "bank",
+          "type": "line",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#2ecc71",
+          "col2": "#ef5350"
+        }
+      }
+    ],
+    "geral": [],
+    "flow": [
+      {
+        "k": "chart",
+        "c": {
+          "metric": "fm",
+          "type": "bar",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#ff7043",
+          "col2": "#2ecc71"
+        }
+      },
+      {
+        "k": "chart",
+        "c": {
+          "metric": "fb",
+          "type": "line",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#7e57c2",
+          "col2": "#ef5350"
+        }
+      },
+      {
+        "k": "chart",
+        "c": {
+          "metric": "fz",
+          "type": "pie",
+          "per": "all",
+          "from": "",
+          "to": "",
+          "gm": "all",
+          "grp": "d",
+          "col": "#2ecc71",
+          "col2": "#ef5350"
+        }
+      }
+    ]
+  }
+}
